@@ -1,0 +1,52 @@
+match_id,team1,team2,winner,margin,margin_type,ground,match_date,stage,scorecard
+1,Netherlands,Pakistan,Pakistan,7,wickets,R. Premadasa Stadium Colombo,Feb 07 2026,Group A,T20I # 2800
+2,West Indies,Scotland,West Indies,120,runs,Wankhede Stadium Mumbai,Feb 07 2026,Group C,T20I # 2801
+3,India,USA,India,9,wickets,Wankhede Stadium Mumbai,Feb 08 2026,Group A,T20I # 2802
+4,Afghanistan,New Zealand,New Zealand,10,wickets,MA Chidambaram Stadium Chennai,Feb 08 2026,Group D,T20I # 2803
+5,England,Nepal,England,9,wickets,Wankhede Stadium Mumbai,Feb 08 2026,Group C,T20I # 2804
+6,Sri Lanka,Ireland,Sri Lanka,7,wickets,R. Premadasa Stadium Colombo,Feb 09 2026,Group B,T20I # 2805
+7,Scotland,Italy,Italy,10,wickets,Arun Jaitley Stadium Delhi,Feb 10 2026,Group C,T20I # 2806
+8,Oman,Zimbabwe,Zimbabwe,8,wickets,MA Chidambaram Stadium Chennai,Feb 10 2026,Group B,T20I # 2807
+9,South Africa,Canada,South Africa,8,wickets,Narendra Modi Stadium Ahmedabad,Feb 10 2026,Group D,T20I # 2808
+10,Namibia,Netherlands,Netherlands,6,wickets,Arun Jaitley Stadium Delhi,Feb 11 2026,Group A,T20I # 2809
+11,UAE,New Zealand,New Zealand,7,wickets,MA Chidambaram Stadium Chennai,Feb 11 2026,Group D,T20I # 2810
+12,Pakistan,USA,Pakistan,8,wickets,Pallekele International Cricket Stadium Kandy,Feb 11 2026,Group A,T20I # 2811
+13,South Africa,Afghanistan,South Africa,Super Over,super over,Narendra Modi Stadium Ahmedabad,Feb 12 2026,Group D,T20I # 2812
+14,Australia,Ireland,Australia,34,runs,R. Premadasa Stadium Colombo,Feb 12 2026,Group B,T20I # 2813
+15,West Indies,England,England,3,wickets,Wankhede Stadium Mumbai,Feb 13 2026,Group C,T20I # 2814
+16,Sri Lanka,Oman,Sri Lanka,77,runs,R. Premadasa Stadium Colombo,Feb 13 2026,Group B,T20I # 2815
+17,Nepal,Italy,Italy,2,runs,Arun Jaitley Stadium Delhi,Feb 13 2026,Group C,T20I # 2816
+18,India,Namibia,India,120,runs,Arun Jaitley Stadium Delhi,Feb 14 2026,Group A,T20I # 2817
+19,Zimbabwe,Australia,Zimbabwe,12,runs,MA Chidambaram Stadium Chennai,Feb 14 2026,Group B,T20I # 2818
+20,Canada,UAE,Canada,6,wickets,MA Chidambaram Stadium Chennai,Feb 14 2026,Group D,T20I # 2819
+21,USA,Netherlands,USA,4,wickets,Pallekele International Cricket Stadium Kandy,Feb 15 2026,Group A,T20I # 2820
+22,Ireland,Oman,Ireland,5,wickets,R. Premadasa Stadium Colombo,Feb 15 2026,Group B,T20I # 2821
+23,Scotland,England,England,5,wickets,Wankhede Stadium Mumbai,Feb 15 2026,Group C,T20I # 2822
+24,New Zealand,South Africa,South Africa,6,wickets,Narendra Modi Stadium Ahmedabad,Feb 15 2026,Group D,T20I # 2823
+25,India,Pakistan,India,6,wickets,Pallekele International Cricket Stadium Kandy,Feb 16 2026,Group A,T20I # 2824
+26,West Indies,Italy,West Indies,10,wickets,Arun Jaitley Stadium Delhi,Feb 16 2026,Group C,T20I # 2825
+27,Australia,Sri Lanka,Sri Lanka,8,wickets,R. Premadasa Stadium Colombo,Feb 17 2026,Group B,T20I # 2826
+28,Afghanistan,UAE,New Zealand,2,wickets,MA Chidambaram Stadium Chennai,Feb 17 2026,Group D,T20I # 2827
+29,Scotland,West Indies,West Indies,5,wickets,Wankhede Stadium Mumbai,Feb 18 2026,Group C,T20I # 2828
+30,Nepal,England,England,4,wickets,Wankhede Stadium Mumbai,Feb 18 2026,Group C,T20I # 2829
+31,Canada,New Zealand,New Zealand,7,wickets,MA Chidambaram Stadium Chennai,Feb 18 2026,Group D,T20I # 2830
+32,Oman,Australia,Australia,6,wickets,R. Premadasa Stadium Colombo,Feb 19 2026,Group B,T20I # 2831
+33,Netherlands,India,India,8,wickets,Narendra Modi Stadium Ahmedabad,Feb 19 2026,Group A,T20I # 2832
+34,Afghanistan,South Africa,South Africa,43,runs,Narendra Modi Stadium Ahmedabad,Feb 20 2026,Group D,T20I # 2833
+35,Zimbabwe,Ireland,Zimbabwe,5,wickets,MA Chidambaram Stadium Chennai,Feb 20 2026,Group B,T20I # 2834
+36,USA,Pakistan,Pakistan,7,wickets,Pallekele International Cricket Stadium Kandy,Feb 20 2026,Group A,T20I # 2835
+37,New Zealand,Pakistan,No Result,NR,NR,R. Premadasa Stadium Colombo,Feb 21 2026,Super 8 Group 2,T20I # 2836
+38,India,South Africa,South Africa,76,runs,Narendra Modi Stadium Ahmedabad,Feb 22 2026,Super 8 Group 1,T20I # 2837
+39,Sri Lanka,England,England,51,runs,Pallekele International Cricket Stadium Kandy,Feb 22 2026,Super 8 Group 2,T20I # 2838
+40,Zimbabwe,West Indies,West Indies,107,runs,Wankhede Stadium Mumbai,Feb 23 2026,Super 8 Group 1,T20I # 2839
+41,Sri Lanka,Pakistan,Pakistan,5,runs,R. Premadasa Stadium Colombo,Feb 28 2026,Super 8 Group 2,T20I # 2840
+42,West Indies,South Africa,South Africa,9,wickets,Narendra Modi Stadium Ahmedabad,Feb 26 2026,Super 8 Group 1,T20I # 2841
+43,India,Zimbabwe,India,72,runs,MA Chidambaram Stadium Chennai,Feb 26 2026,Super 8 Group 1,T20I # 2842
+44,England,Pakistan,England,4,wickets,Pallekele International Cricket Stadium Kandy,Feb 24 2026,Super 8 Group 2,T20I # 2843
+45,New Zealand,Sri Lanka,New Zealand,6,wickets,R. Premadasa Stadium Colombo,Feb 27 2026,Super 8 Group 2,T20I # 2844
+46,Zimbabwe,South Africa,South Africa,5,wickets,Arun Jaitley Stadium Delhi,Mar 01 2026,Super 8 Group 1,T20I # 2845
+47,India,West Indies,India,5,wickets,Eden Gardens Kolkata,Mar 01 2026,Super 8 Group 1,T20I # 2846
+48,New Zealand,England,England,3,wickets,Pallekele International Cricket Stadium Kandy,Mar 02 2026,Super 8 Group 2,T20I # 2847
+49,South Africa,New Zealand,New Zealand,9,wickets,Eden Gardens Kolkata,Mar 04 2026,Semi-Final 1,T20I # 2848
+50,England,India,India,7,runs,Wankhede Stadium Mumbai,Mar 05 2026,Semi-Final 2,T20I # 2849
+51,New Zealand,India,India,96,runs,Narendra Modi Stadium Ahmedabad,Mar 08 2026,Final,T20I # 2850

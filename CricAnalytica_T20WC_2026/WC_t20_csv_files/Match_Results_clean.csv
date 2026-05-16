@@ -1,0 +1,48 @@
+team1,team2,winner,margin,ground,matchDate,scorecard,no_result,match_number
+Netherlands,Pakistan,Pakistan,7 wickets,"R. Premadasa Stadium, Colombo",2026-02-07,T20I # 2800,False,20
+West Indies,Scotland,West Indies,120 runs,"Wankhede Stadium, Mumbai",2026-02-07,T20I # 2801,False,20
+India,U.S.A.,India,9 wickets,"Wankhede Stadium, Mumbai",2026-02-08,T20I # 2802,False,20
+Afghanistan,New Zealand,New Zealand,10 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-08,T20I # 2803,False,20
+England,Nepal,England,9 wickets,"Wankhede Stadium, Mumbai",2026-02-08,T20I # 2804,False,20
+Sri Lanka,Ireland,Sri Lanka,7 wickets,"R. Premadasa Stadium, Colombo",2026-02-09,T20I # 2805,False,20
+Scotland,Italy,Italy,10 wickets,"Arun Jaitley Stadium, Delhi",2026-02-10,T20I # 2806,False,20
+Oman,Zimbabwe,Zimbabwe,8 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-10,T20I # 2807,False,20
+South Africa,Canada,South Africa,8 wickets,"Narendra Modi Stadium, Ahmedabad",2026-02-10,T20I # 2808,False,20
+Namibia,Netherlands,Netherlands,6 wickets,"Arun Jaitley Stadium, Delhi",2026-02-11,T20I # 2809,False,20
+U.A.E.,New Zealand,New Zealand,7 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-11,T20I # 2810,False,20
+Pakistan,U.S.A.,Pakistan,8 wickets,"Pallekele International Cricket Stadium, Kandy",2026-02-11,T20I # 2811,False,20
+South Africa,Afghanistan,South Africa,Super Over,"Narendra Modi Stadium, Ahmedabad",2026-02-12,T20I # 2812,False,20
+Australia,Ireland,Australia,34 runs,"R. Premadasa Stadium, Colombo",2026-02-12,T20I # 2813,False,20
+West Indies,England,England,3 wickets,"Wankhede Stadium, Mumbai",2026-02-13,T20I # 2814,False,20
+Sri Lanka,Oman,Sri Lanka,77 runs,"R. Premadasa Stadium, Colombo",2026-02-13,T20I # 2815,False,20
+Nepal,Italy,Italy,2 runs,"Arun Jaitley Stadium, Delhi",2026-02-13,T20I # 2816,False,20
+India,Namibia,India,120 runs,"Arun Jaitley Stadium, Delhi",2026-02-14,T20I # 2817,False,20
+Zimbabwe,Australia,Zimbabwe,12 runs,"M.A. Chidambaram Stadium, Chennai",2026-02-14,T20I # 2818,False,20
+Canada,U.A.E.,Canada,6 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-14,T20I # 2819,False,20
+U.S.A.,Netherlands,U.S.A.,4 wickets,"Pallekele International Cricket Stadium, Kandy",2026-02-15,T20I # 2820,False,20
+Ireland,Oman,Ireland,5 wickets,"R. Premadasa Stadium, Colombo",2026-02-15,T20I # 2821,False,20
+Scotland,England,England,5 wickets,"Wankhede Stadium, Mumbai",2026-02-15,T20I # 2822,False,20
+New Zealand,South Africa,South Africa,6 wickets,"Narendra Modi Stadium, Ahmedabad",2026-02-15,T20I # 2823,False,20
+India,Pakistan,India,6 wickets,"Pallekele International Cricket Stadium, Kandy",2026-02-16,T20I # 2824,False,20
+West Indies,Italy,West Indies,10 wickets,"Arun Jaitley Stadium, Delhi",2026-02-16,T20I # 2825,False,20
+Australia,Sri Lanka,Sri Lanka,8 wickets,"R. Premadasa Stadium, Colombo",2026-02-17,T20I # 2826,False,20
+Afghanistan,Canada,New Zealand,2 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-17,T20I # 2827,False,20
+New Zealand,Canada,New Zealand,7 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-18,T20I # 2830,False,20
+India,Netherlands,India,8 wickets,"Narendra Modi Stadium, Ahmedabad",2026-02-19,T20I # 2832,False,20
+Zimbabwe,Ireland,Zimbabwe,5 wickets,"M.A. Chidambaram Stadium, Chennai",2026-02-20,T20I # 2834,False,20
+U.S.A.,Pakistan,Pakistan,7 wickets,"Pallekele International Cricket Stadium, Kandy",2026-02-20,T20I # 2835,False,20
+New Zealand,Pakistan,No Result,,"R. Premadasa Stadium, Colombo",2026-02-21,T20I # 2836,True,20
+India,South Africa,South Africa,76 runs,"Narendra Modi Stadium, Ahmedabad",2026-02-22,T20I # 2837,False,20
+Sri Lanka,England,England,51 runs,"Pallekele International Cricket Stadium, Kandy",2026-02-22,T20I # 2838,False,20
+Zimbabwe,West Indies,West Indies,107 runs,"Wankhede Stadium, Mumbai",2026-02-23,T20I # 2839,False,20
+England,Pakistan,England,4 wickets,"Pallekele International Cricket Stadium, Kandy",2026-02-24,T20I # 2843,False,20
+West Indies,South Africa,South Africa,9 wickets,"Narendra Modi Stadium, Ahmedabad",2026-02-26,T20I # 2841,False,20
+India,Zimbabwe,India,72 runs,"M.A. Chidambaram Stadium, Chennai",2026-02-26,T20I # 2842,False,20
+New Zealand,Sri Lanka,New Zealand,6 wickets,"R. Premadasa Stadium, Colombo",2026-02-27,T20I # 2844,False,20
+Sri Lanka,Pakistan,Pakistan,5 runs,"R. Premadasa Stadium, Colombo",2026-02-28,T20I # 2840,False,20
+Zimbabwe,South Africa,South Africa,5 wickets,"Arun Jaitley Stadium, Delhi",2026-03-01,T20I # 2845,False,20
+India,West Indies,India,5 wickets,"Eden Gardens, Kolkata",2026-03-01,T20I # 2846,False,20
+New Zealand,England,England,3 wickets,"Pallekele International Cricket Stadium, Kandy",2026-03-02,T20I # 2847,False,20
+South Africa,New Zealand,New Zealand,9 wickets,"Eden Gardens, Kolkata",2026-03-04,T20I # 2848,False,20
+England,India,India,7 runs,"Wankhede Stadium, Mumbai",2026-03-05,T20I # 2849,False,20
+New Zealand,India,India,96 runs,"Narendra Modi Stadium, Ahmedabad",2026-03-08,T20I # 2850,False,20

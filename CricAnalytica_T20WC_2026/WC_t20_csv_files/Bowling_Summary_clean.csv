@@ -1,0 +1,26 @@
+name,team,innings,wickets,avg,economy,sr,best_bowling,four_wickets,five_wickets,bb_wickets,bb_runs,role,bowling_style,age
+Jasprit Bumrah,India,8,14,12.42,6.21,12.0,4/15,1,0,4.0,15.0,Bowler,Right-arm fast,30.0
+Varun Chakravarthy,India,9,14,20.5,8.2,15.0,4/22,1,0,4.0,22.0,Bowler,Right-arm leg-break,33.0
+Shadley van Schalkwyk,USA,4,13,7.76,6.8,6.84,4/22,2,0,4.0,22.0,Bowler,Right-arm medium,30.0
+Blessing Muzarabani,Zimbabwe,6,13,10.27,7.88,7.8,4/28,1,0,4.0,28.0,Bowler,Right-arm fast,26.0
+Adil Rashid,England,8,13,16.84,7.23,13.96,3/16,0,0,3.0,16.0,Bowler,Right-arm leg-break,36.0
+Arshdeep Singh,India,8,11,18.27,7.89,13.9,3/18,0,0,3.0,18.0,Bowler,Left-arm fast-medium,26.0
+Mark Wood,England,7,10,17.4,9.8,10.64,3/22,0,0,3.0,22.0,Bowler,Right-arm fast,36.0
+Rehan Ahmed,England,7,9,19.44,7.2,16.22,3/18,0,0,3.0,18.0,All-rounder,Right-arm leg-break,21.0
+Romario Shepherd,West Indies,5,9,14.55,9.4,9.28,5/20,0,1,5.0,20.0,All-rounder,Right-arm fast-medium,29.0
+Wanindu Hasaranga,Sri Lanka,5,9,15.33,7.4,12.44,3/24,0,0,3.0,24.0,All-rounder,Right-arm leg-break,27.0
+Rashid Khan,Afghanistan,4,8,14.25,6.8,12.56,3/17,0,0,3.0,17.0,All-rounder,Right-arm leg-break,26.0
+Mitchell Santner,New Zealand,8,8,22.75,7.1,19.25,3/28,0,0,3.0,28.0,All-rounder,Left-arm orthodox,33.0
+Hardik Pandya,India,8,8,21.5,9.1,14.18,3/19,0,0,3.0,19.0,All-rounder,Right-arm medium-fast,31.0
+Kagiso Rabada,South Africa,5,8,16.12,8.3,11.62,3/25,0,0,3.0,25.0,Bowler,Right-arm fast,30.0
+Marco Jansen,South Africa,5,8,14.62,8.0,10.97,3/22,0,0,3.0,22.0,All-rounder,Left-arm fast-medium,25.0
+Axar Patel,India,7,7,19.71,6.85,17.28,2/15,0,0,2.0,15.0,All-rounder,Left-arm orthodox,31.0
+Junaid Siddique,UAE,4,7,12.57,7.42,10.17,5/35,0,1,5.0,35.0,,,
+Sikandar Raza,Zimbabwe,6,7,21.28,7.32,17.42,3/28,0,0,3.0,28.0,All-rounder,Right-arm off-break,39.0
+Anrich Nortje,South Africa,5,7,17.28,9.2,11.28,3/20,0,0,3.0,20.0,,,
+Matt Henry,New Zealand,6,6,20.83,9.5,13.16,3/32,0,0,3.0,32.0,,,
+Taskin Ahmed,Bangladesh,4,6,18.5,8.4,13.21,3/28,0,0,3.0,28.0,,,
+Finn Allen,New Zealand,1,0,0.0,0.0,0.0,0/10,0,0,0.0,10.0,Batter,Right-arm off-break,27.0
+Gudakesh Motie,West Indies,5,6,16.33,7.2,13.66,4/18,1,0,4.0,18.0,Bowler,Left-arm orthodox,25.0
+Usman Khan,Pakistan,6,6,22.16,9.1,14.63,2/18,0,0,2.0,18.0,,,
+Shaheen Afridi,Pakistan,6,5,26.8,10.2,15.8,2/28,0,0,2.0,28.0,,,
